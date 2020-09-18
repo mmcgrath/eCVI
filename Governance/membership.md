@@ -25,6 +25,7 @@ Keith Roehr                       keith.roehr@state.co.us                  State
 Kent Grant                        kevin.grant@vetenvoy.us                  Other
 Kimberly Tsao                     Kimberly.tsao@aphis.usda.gov             Fed
 Michael McGrath                   mmcgrath@tracefirst.com                  DB Vendor
+Mark Helt                         mhelt@tracefirst.com                     DB Vendor
 Mitzy Torres                      mtorres@acclaimsystems.onmicrosoft.com   DB Vendor
 Michael Martin                    mmarti5@clemson.edu                      Academic
 Nate Plumm                        nate.d.plumm@aphis.usda.gov              Fed
